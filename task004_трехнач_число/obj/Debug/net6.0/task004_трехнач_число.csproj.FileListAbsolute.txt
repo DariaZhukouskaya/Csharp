@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task004_трехнач_число\bin\Debug\net6.0\task004_трехнач_число.exe
+C:\Users\User\Desktop\С#\task004_трехнач_число\bin\Debug\net6.0\task004_трехнач_число.deps.json
+C:\Users\User\Desktop\С#\task004_трехнач_число\bin\Debug\net6.0\task004_трехнач_число.runtimeconfig.json
+C:\Users\User\Desktop\С#\task004_трехнач_число\bin\Debug\net6.0\task004_трехнач_число.dll
+C:\Users\User\Desktop\С#\task004_трехнач_число\bin\Debug\net6.0\task004_трехнач_число.pdb
+C:\Users\User\Desktop\С#\task004_трехнач_число\obj\Debug\net6.0\task004_трехнач_число.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task004_трехнач_число\obj\Debug\net6.0\task004_трехнач_число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task004_трехнач_число\obj\Debug\net6.0\task004_трехнач_число.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task004_трехнач_число\obj\Debug\net6.0\task004_трехнач_число.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task004_трехнач_число\obj\Debug\net6.0\task004_трехнач_число.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task004_трехнач_число\obj\Debug\net6.0\task004_трехнач_число.dll
+C:\Users\User\Desktop\С#\task004_трехнач_число\obj\Debug\net6.0\refint\task004_трехнач_число.dll
+C:\Users\User\Desktop\С#\task004_трехнач_число\obj\Debug\net6.0\task004_трехнач_число.pdb
+C:\Users\User\Desktop\С#\task004_трехнач_число\obj\Debug\net6.0\task004_трехнач_число.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task004_трехнач_число\obj\Debug\net6.0\ref\task004_трехнач_число.dll
