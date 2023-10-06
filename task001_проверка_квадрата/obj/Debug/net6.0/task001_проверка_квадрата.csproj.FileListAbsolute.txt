@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\obj\Debug\net6.0\task001_проверка_квадрата.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\obj\Debug\net6.0\task001_проверка_квадрата.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\obj\Debug\net6.0\task001_проверка_квадрата.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\obj\Debug\net6.0\task001_проверка_квадрата.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\obj\Debug\net6.0\task001_проверка_квадрата.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\bin\Debug\net6.0\task001_проверка_квадрата.exe
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\bin\Debug\net6.0\task001_проверка_квадрата.deps.json
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\bin\Debug\net6.0\task001_проверка_квадрата.runtimeconfig.json
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\bin\Debug\net6.0\task001_проверка_квадрата.dll
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\bin\Debug\net6.0\task001_проверка_квадрата.pdb
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\obj\Debug\net6.0\task001_проверка_квадрата.dll
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\obj\Debug\net6.0\refint\task001_проверка_квадрата.dll
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\obj\Debug\net6.0\task001_проверка_квадрата.pdb
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\obj\Debug\net6.0\task001_проверка_квадрата.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task001_проверка_квадрата\obj\Debug\net6.0\ref\task001_проверка_квадрата.dll
