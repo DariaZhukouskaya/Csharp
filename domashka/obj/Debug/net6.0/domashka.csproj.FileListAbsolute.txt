@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\domashka\bin\Debug\net6.0\domashka.exe
+C:\Users\User\Desktop\С#\domashka\bin\Debug\net6.0\domashka.deps.json
+C:\Users\User\Desktop\С#\domashka\bin\Debug\net6.0\domashka.runtimeconfig.json
+C:\Users\User\Desktop\С#\domashka\bin\Debug\net6.0\domashka.dll
+C:\Users\User\Desktop\С#\domashka\bin\Debug\net6.0\domashka.pdb
+C:\Users\User\Desktop\С#\domashka\obj\Debug\net6.0\domashka.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\domashka\obj\Debug\net6.0\domashka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\domashka\obj\Debug\net6.0\domashka.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\domashka\obj\Debug\net6.0\domashka.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\domashka\obj\Debug\net6.0\domashka.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\domashka\obj\Debug\net6.0\domashka.dll
+C:\Users\User\Desktop\С#\domashka\obj\Debug\net6.0\refint\domashka.dll
+C:\Users\User\Desktop\С#\domashka\obj\Debug\net6.0\domashka.pdb
+C:\Users\User\Desktop\С#\domashka\obj\Debug\net6.0\domashka.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\domashka\obj\Debug\net6.0\ref\domashka.dll
