@@ -8,7 +8,7 @@ number = 8 -> 2    4    6    8
 System.Console.WriteLine("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
-for (int i = 2; i <= number; i = i + 2)
+for (int i = 2; i <= number; i = i + 2)  // Всегда три показателя: точка входа, условия выхода из цикла, шаг
 {
-    System.Console.Write(i+" ");
+    System.Console.Write(i + "\t");
 }
