@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\bin\Debug\net6.0\task08_четные_числа_от1_доТ.exe
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\bin\Debug\net6.0\task08_четные_числа_от1_доТ.deps.json
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\bin\Debug\net6.0\task08_четные_числа_от1_доТ.runtimeconfig.json
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\bin\Debug\net6.0\task08_четные_числа_от1_доТ.dll
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\bin\Debug\net6.0\task08_четные_числа_от1_доТ.pdb
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\obj\Debug\net6.0\task08_четные_числа_от1_доТ.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\obj\Debug\net6.0\task08_четные_числа_от1_доТ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\obj\Debug\net6.0\task08_четные_числа_от1_доТ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\obj\Debug\net6.0\task08_четные_числа_от1_доТ.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\obj\Debug\net6.0\task08_четные_числа_от1_доТ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\obj\Debug\net6.0\task08_четные_числа_от1_доТ.dll
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\obj\Debug\net6.0\refint\task08_четные_числа_от1_доТ.dll
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\obj\Debug\net6.0\task08_четные_числа_от1_доТ.pdb
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\obj\Debug\net6.0\task08_четные_числа_от1_доТ.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task08_четные_числа_от1_доТ\obj\Debug\net6.0\ref\task08_четные_числа_от1_доТ.dll
