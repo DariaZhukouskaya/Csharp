@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\С#\\task09\\task09.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\С#\\task09_наибольшая_цифра_числа\\task09.csproj",
       "projectName": "task09",
-      "projectPath": "C:\\Users\\User\\Desktop\\С#\\task09\\task09.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\С#\\task09_наибольшая_цифра_числа\\task09.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\С#\\task09\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\С#\\task09_наибольшая_цифра_числа\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
