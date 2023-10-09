@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\bin\Debug\net6.0\task04_макс_из_трех_чисел.exe
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\bin\Debug\net6.0\task04_макс_из_трех_чисел.deps.json
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\bin\Debug\net6.0\task04_макс_из_трех_чисел.runtimeconfig.json
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\bin\Debug\net6.0\task04_макс_из_трех_чисел.dll
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\bin\Debug\net6.0\task04_макс_из_трех_чисел.pdb
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\obj\Debug\net6.0\task04_макс_из_трех_чисел.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\obj\Debug\net6.0\task04_макс_из_трех_чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\obj\Debug\net6.0\task04_макс_из_трех_чисел.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\obj\Debug\net6.0\task04_макс_из_трех_чисел.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\obj\Debug\net6.0\task04_макс_из_трех_чисел.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\obj\Debug\net6.0\task04_макс_из_трех_чисел.dll
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\obj\Debug\net6.0\refint\task04_макс_из_трех_чисел.dll
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\obj\Debug\net6.0\task04_макс_из_трех_чисел.pdb
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\obj\Debug\net6.0\task04_макс_из_трех_чисел.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task04_макс_из_трех_чисел\obj\Debug\net6.0\ref\task04_макс_из_трех_чисел.dll
