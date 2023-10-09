@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\bin\Debug\net6.0\task07_послед_цифра_трехзнач_числа.exe
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\bin\Debug\net6.0\task07_послед_цифра_трехзнач_числа.deps.json
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\bin\Debug\net6.0\task07_послед_цифра_трехзнач_числа.runtimeconfig.json
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\bin\Debug\net6.0\task07_послед_цифра_трехзнач_числа.dll
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\bin\Debug\net6.0\task07_послед_цифра_трехзнач_числа.pdb
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\obj\Debug\net6.0\task07_послед_цифра_трехзнач_числа.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\obj\Debug\net6.0\task07_послед_цифра_трехзнач_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\obj\Debug\net6.0\task07_послед_цифра_трехзнач_числа.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\obj\Debug\net6.0\task07_послед_цифра_трехзнач_числа.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\obj\Debug\net6.0\task07_послед_цифра_трехзнач_числа.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\obj\Debug\net6.0\task07_послед_цифра_трехзнач_числа.dll
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\obj\Debug\net6.0\refint\task07_послед_цифра_трехзнач_числа.dll
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\obj\Debug\net6.0\task07_послед_цифра_трехзнач_числа.pdb
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\obj\Debug\net6.0\task07_послед_цифра_трехзнач_числа.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task07_послед_цифра_трехзнач_числа\obj\Debug\net6.0\ref\task07_послед_цифра_трехзнач_числа.dll
