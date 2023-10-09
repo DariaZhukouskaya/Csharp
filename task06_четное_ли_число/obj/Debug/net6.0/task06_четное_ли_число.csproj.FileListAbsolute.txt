@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task06_четное_ли_число\bin\Debug\net6.0\task06_четное_ли_число.exe
+C:\Users\User\Desktop\С#\task06_четное_ли_число\bin\Debug\net6.0\task06_четное_ли_число.deps.json
+C:\Users\User\Desktop\С#\task06_четное_ли_число\bin\Debug\net6.0\task06_четное_ли_число.runtimeconfig.json
+C:\Users\User\Desktop\С#\task06_четное_ли_число\bin\Debug\net6.0\task06_четное_ли_число.dll
+C:\Users\User\Desktop\С#\task06_четное_ли_число\bin\Debug\net6.0\task06_четное_ли_число.pdb
+C:\Users\User\Desktop\С#\task06_четное_ли_число\obj\Debug\net6.0\task06_четное_ли_число.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task06_четное_ли_число\obj\Debug\net6.0\task06_четное_ли_число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task06_четное_ли_число\obj\Debug\net6.0\task06_четное_ли_число.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task06_четное_ли_число\obj\Debug\net6.0\task06_четное_ли_число.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task06_четное_ли_число\obj\Debug\net6.0\task06_четное_ли_число.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task06_четное_ли_число\obj\Debug\net6.0\task06_четное_ли_число.dll
+C:\Users\User\Desktop\С#\task06_четное_ли_число\obj\Debug\net6.0\refint\task06_четное_ли_число.dll
+C:\Users\User\Desktop\С#\task06_четное_ли_число\obj\Debug\net6.0\task06_четное_ли_число.pdb
+C:\Users\User\Desktop\С#\task06_четное_ли_число\obj\Debug\net6.0\task06_четное_ли_число.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task06_четное_ли_число\obj\Debug\net6.0\ref\task06_четное_ли_число.dll
