@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\С#\\task11\\task11.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\С#\\task11_удаляет_вторую_цифру_из_трехначного_числа\\task11.csproj",
       "projectName": "task11",
-      "projectPath": "C:\\Users\\User\\Desktop\\С#\\task11\\task11.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\С#\\task11_удаляет_вторую_цифру_из_трехначного_числа\\task11.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\С#\\task11\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\С#\\task11_удаляет_вторую_цифру_из_трехначного_числа\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ISNAufSro2JWgBj7AEDGToQVvoDXLI4G1WPNZomwet/NmbNauEoIuu5f0AG+KP0HGo8V+2l3RaXnP551P95jxg==",
+  "dgSpecHash": "eorYstzKujrQPL1cT+MnLHNkp4LNYl2AgAzJJMS7EkbTi8TrX7bY+NA7AkeW4+kIUZpaDXbqYEpreRJyGofihA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\С#\\task11\\task11.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\С#\\task11_удаляет_вторую_цифру_из_трехначного_числа\\task11.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
