@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task21_3d_пространство/1.0.0": {
+        "runtime": {
+          "task21_3d_пространство.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task21_3d_пространство/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
