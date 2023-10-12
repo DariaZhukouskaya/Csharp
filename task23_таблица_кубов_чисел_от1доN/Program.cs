@@ -18,5 +18,5 @@ int userNumber = int.Parse(Console.ReadLine());
 
 for (int i = 1; i <= userNumber; i++)
 {
-    System.Console.WriteLine(Math.Pow(i, 3));
+    System.Console.WriteLine(Math.Pow(i, 3)); //Math.Pow - функция возведения в степень(что возводим, в какую степень)
 } 
