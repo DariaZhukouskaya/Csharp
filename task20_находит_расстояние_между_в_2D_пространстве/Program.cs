@@ -18,5 +18,5 @@ int userBy = Convert.ToInt32(Console.ReadLine());
 Math.Pow(userBx - userAx, 2);
 double squareX = Math.Pow(userBx - userAx, 2); //Math.Pow(a, 3) функция возведения в степень (что возводим в степень, в какую степень)
 double squareY = Math.Pow(userBy - userAy, 2); //square - квадрат
-double rootXY = Math.Sqrt(squareX + squareY);
+double rootXY = Math.Sqrt(squareX + squareY); //Math.Sqrt() находит квадратный корень
 System.Console.WriteLine(Math.Round(rootXY, 2)); //Math.Round(a, 2) округление чисел после запятой(число, сколько чисел после , оставить)
