@@ -1,0 +1,22 @@
+﻿/*
+20. Напишите программу, которая принимает на вход координаты двух точек и находит
+расстояние между ними в 2D пространстве.
+
+A (3,6); B (2,1) -> 5,09
+A (7,-5); B (1,-1) -> 7,21
+*/
+
+System.Console.WriteLine("Введите координаты точки A(x,y): ");
+int userAx = Convert.ToInt32(Console.ReadLine());
+int userAy = Convert.ToInt32(Console.ReadLine());
+
+System.Console.WriteLine("Введите координаты точки B(x,y): ");
+int userBx = Convert.ToInt32(Console.ReadLine());
+int userBy = Convert.ToInt32(Console.ReadLine());
+
+//int squareX = (userBx - userAx) * (userBx - userAx);
+Math.Pow(userBx - userAx, 2);
+double squareX = Math.Pow(userBx - userAx, 2); //Math.Pow(a, 3) функция возведения в степень (что возводим в степень, в какую степень)
+double squareY = Math.Pow(userBy - userAy, 2); //square - квадрат
+double rootXY = Math.Sqrt(squareX + squareY);
+System.Console.WriteLine(Math.Round(rootXY, 2)); //Math.Round(a, 2) округление чисел после запятой(число, сколько чисел после , оставить)

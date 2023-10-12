@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\obj\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\obj\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\obj\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\obj\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\obj\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\bin\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.exe
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\bin\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.deps.json
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\bin\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.runtimeconfig.json
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\bin\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.dll
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\bin\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.pdb
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\obj\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.dll
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\obj\Debug\net6.0\refint\task20_находит_расстояние_между_в_2D_пространстве.dll
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\obj\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.pdb
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\obj\Debug\net6.0\task20_находит_расстояние_между_в_2D_пространстве.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task20_находит_расстояние_между_в_2D_пространстве\obj\Debug\net6.0\ref\task20_находит_расстояние_между_в_2D_пространстве.dll
