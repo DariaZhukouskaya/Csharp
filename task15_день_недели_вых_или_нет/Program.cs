@@ -6,39 +6,43 @@
 */
 
 System.Console.WriteLine("Введите число: ");
-int userNumber1 = Convert.ToInt32(Console.ReadLine());
-if (userNumber1 == 1)
+int dayNumber = Convert.ToInt32(Console.ReadLine());
+if (dayNumber == 1)
 {
     System.Console.WriteLine("Понедельник");
     System.Console.WriteLine("Нет");
 }
-if (userNumber1 == 2)
+if (dayNumber == 2)
 {
     System.Console.WriteLine("Вторник");
     System.Console.WriteLine("Нет");
 }
-if (userNumber1 == 3)
+if (dayNumber == 3)
 {
    System.Console.WriteLine("Среда"); 
    System.Console.WriteLine("Нет");
 }
-if (userNumber1 == 4)
+if (dayNumber == 4)
 {
     System.Console.WriteLine("Четверг"); 
     System.Console.WriteLine("Нет");
 }
-if (userNumber1 == 5)
+if (dayNumber == 5)
 {
     System.Console.WriteLine("Пятница");
     System.Console.WriteLine("Нет");
 }
-if (userNumber1 == 6)
+if (dayNumber == 6)
 {
    System.Console.WriteLine("Суббота"); 
    System.Console.WriteLine("Да");
 }
-if (userNumber1 == 7)
+if (dayNumber == 7)
 {
     System.Console.WriteLine("Воскресенье");
     System.Console.WriteLine("Да"); 
+}
+if (dayNumber <1 || dayNumber > 7)
+{
+     System.Console.WriteLine("Нет такого дня недели");
 }
