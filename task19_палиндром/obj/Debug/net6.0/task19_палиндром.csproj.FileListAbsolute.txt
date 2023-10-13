@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task19_палиндром\obj\Debug\net6.0\task19_палиндром.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task19_палиндром\obj\Debug\net6.0\task19_палиндром.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task19_палиндром\obj\Debug\net6.0\task19_палиндром.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task19_палиндром\obj\Debug\net6.0\task19_палиндром.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task19_палиндром\obj\Debug\net6.0\task19_палиндром.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task19_палиндром\bin\Debug\net6.0\task19_палиндром.exe
+C:\Users\User\Desktop\С#\task19_палиндром\bin\Debug\net6.0\task19_палиндром.deps.json
+C:\Users\User\Desktop\С#\task19_палиндром\bin\Debug\net6.0\task19_палиндром.runtimeconfig.json
+C:\Users\User\Desktop\С#\task19_палиндром\bin\Debug\net6.0\task19_палиндром.dll
+C:\Users\User\Desktop\С#\task19_палиндром\bin\Debug\net6.0\task19_палиндром.pdb
+C:\Users\User\Desktop\С#\task19_палиндром\obj\Debug\net6.0\task19_палиндром.dll
+C:\Users\User\Desktop\С#\task19_палиндром\obj\Debug\net6.0\refint\task19_палиндром.dll
+C:\Users\User\Desktop\С#\task19_палиндром\obj\Debug\net6.0\task19_палиндром.pdb
+C:\Users\User\Desktop\С#\task19_палиндром\obj\Debug\net6.0\task19_палиндром.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task19_палиндром\obj\Debug\net6.0\ref\task19_палиндром.dll
