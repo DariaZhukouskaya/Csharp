@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\obj\Debug\net6.0\task26_количество_цифр_в_числе.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\obj\Debug\net6.0\task26_количество_цифр_в_числе.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\obj\Debug\net6.0\task26_количество_цифр_в_числе.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\obj\Debug\net6.0\task26_количество_цифр_в_числе.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\obj\Debug\net6.0\task26_количество_цифр_в_числе.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\bin\Debug\net6.0\task26_количество_цифр_в_числе.exe
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\bin\Debug\net6.0\task26_количество_цифр_в_числе.deps.json
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\bin\Debug\net6.0\task26_количество_цифр_в_числе.runtimeconfig.json
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\bin\Debug\net6.0\task26_количество_цифр_в_числе.dll
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\bin\Debug\net6.0\task26_количество_цифр_в_числе.pdb
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\obj\Debug\net6.0\task26_количество_цифр_в_числе.dll
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\obj\Debug\net6.0\refint\task26_количество_цифр_в_числе.dll
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\obj\Debug\net6.0\task26_количество_цифр_в_числе.pdb
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\obj\Debug\net6.0\task26_количество_цифр_в_числе.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task26_количество_цифр_в_числе\obj\Debug\net6.0\ref\task26_количество_цифр_в_числе.dll
