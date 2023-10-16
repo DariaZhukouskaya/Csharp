@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task28_вход_числоN_выдаёт_произведение_чисел_от1доN/1.0.0": {
+        "runtime": {
+          "task28_вход_числоN_выдаёт_произведение_чисел_от1доN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task28_вход_числоN_выдаёт_произведение_чисел_от1доN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
