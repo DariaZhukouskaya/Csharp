@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\obj\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\obj\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\obj\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\obj\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\obj\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\bin\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.exe
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\bin\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.deps.json
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\bin\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.runtimeconfig.json
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\bin\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.dll
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\bin\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.pdb
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\obj\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.dll
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\obj\Debug\net6.0\refint\task30_нулями_и_единицами_в_случайном_порядке.dll
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\obj\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.pdb
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\obj\Debug\net6.0\task30_нулями_и_единицами_в_случайном_порядке.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task30_нулями_и_единицами_в_случайном_порядке\obj\Debug\net6.0\ref\task30_нулями_и_единицами_в_случайном_порядке.dll
