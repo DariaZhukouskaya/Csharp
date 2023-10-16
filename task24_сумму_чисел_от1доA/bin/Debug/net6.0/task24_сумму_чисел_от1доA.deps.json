@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task24_сумму_чисел_от1доA/1.0.0": {
+        "runtime": {
+          "task24_сумму_чисел_от1доA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task24_сумму_чисел_от1доA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\obj\Debug\net6.0\task24_сумму_чисел_от1доA.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\obj\Debug\net6.0\task24_сумму_чисел_от1доA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\obj\Debug\net6.0\task24_сумму_чисел_от1доA.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\obj\Debug\net6.0\task24_сумму_чисел_от1доA.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\obj\Debug\net6.0\task24_сумму_чисел_от1доA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\bin\Debug\net6.0\task24_сумму_чисел_от1доA.exe
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\bin\Debug\net6.0\task24_сумму_чисел_от1доA.deps.json
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\bin\Debug\net6.0\task24_сумму_чисел_от1доA.runtimeconfig.json
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\bin\Debug\net6.0\task24_сумму_чисел_от1доA.dll
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\bin\Debug\net6.0\task24_сумму_чисел_от1доA.pdb
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\obj\Debug\net6.0\task24_сумму_чисел_от1доA.dll
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\obj\Debug\net6.0\refint\task24_сумму_чисел_от1доA.dll
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\obj\Debug\net6.0\task24_сумму_чисел_от1доA.pdb
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\obj\Debug\net6.0\task24_сумму_чисел_от1доA.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task24_сумму_чисел_от1доA\obj\Debug\net6.0\ref\task24_сумму_чисел_от1доA.dll
