@@ -30,3 +30,25 @@ if (number > 99999)
 {
   System.Console.WriteLine("Число не пятизначное");
 }
+
+
+/*int UserReverse(int a)
+{
+  int revN = 0;
+  for (int i = 0; i >0; i /= 10)
+  {
+    revN = revN * 10 + i % 10;
+  }
+  return revN;
+}
+
+void Result(int a, int b)
+{
+  if (a==b) System.Console.WriteLine("Yes");
+  else System.Console.WriteLine("No");
+}
+
+System.Console.WriteLine("введите число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int revN = UserReverse(n);
+Result(n, revN);*/
