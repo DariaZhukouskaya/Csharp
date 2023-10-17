@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\obj\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\obj\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\obj\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\obj\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\obj\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\bin\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.exe
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\bin\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.deps.json
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\bin\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.runtimeconfig.json
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\bin\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.dll
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\bin\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.pdb
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\obj\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.dll
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\obj\Debug\net6.0\refint\task27_число_и_выдаёт_сумму_цифрвчисле.dll
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\obj\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.pdb
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\obj\Debug\net6.0\task27_число_и_выдаёт_сумму_цифрвчисле.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task27_число_и_выдаёт_сумму_цифрвчисле\obj\Debug\net6.0\ref\task27_число_и_выдаёт_сумму_цифрвчисле.dll

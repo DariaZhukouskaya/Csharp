@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task27_число_и_выдаёт_сумму_цифрвчисле/1.0.0": {
+        "runtime": {
+          "task27_число_и_выдаёт_сумму_цифрвчисле.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task27_число_и_выдаёт_сумму_цифрвчисле/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
