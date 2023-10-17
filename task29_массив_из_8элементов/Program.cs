@@ -17,14 +17,16 @@ int[] GetArray(int start, int end, int size)
 
 void PrintArray(int[] arr)
 {
+    Console.ForegroundColor=ConsoleColor.Green;
     System.Console.Write("[");
     for (int i = 0; i < arr.Length; i++)
     {
         System.Console.Write(arr[i]);
         if (i < arr.Length - 1)
-        System.Console.Write(", ");//[5, 7, 1, 4]
-    }
+        System.Console.Write(", ");   //[5, 7, 1, 4] - размер
+    }                                 // 0, 1, 2, 3 - массив
     System.Console.Write("]");
+    Console.ResetColor();
 }
 
 System.Console.WriteLine("Задай диапазон массива от:");
