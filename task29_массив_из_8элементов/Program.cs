@@ -21,10 +21,10 @@ void PrintArray(int[] arr)
     System.Console.Write("[");
     for (int i = 0; i < arr.Length; i++)
     {
-        System.Console.Write(arr[i]);
-        if (i < arr.Length - 1)
-        System.Console.Write(", ");   //[5, 7, 1, 4] - размер
-    }                                 // 0, 1, 2, 3 - массив
+        System.Console.Write(arr[i]);   //[5, 7, 1, 4] - размер
+        if (i < arr.Length - 1)         // 0, 1, 2, 3 - массив
+        System.Console.Write(", ");   
+    }                                 
     System.Console.Write("]");
     Console.ResetColor();
 }
