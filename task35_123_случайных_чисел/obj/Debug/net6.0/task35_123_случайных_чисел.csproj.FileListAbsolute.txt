@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\bin\Debug\net6.0\task35_123_случайных_чисел.exe
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\bin\Debug\net6.0\task35_123_случайных_чисел.deps.json
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\bin\Debug\net6.0\task35_123_случайных_чисел.runtimeconfig.json
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\bin\Debug\net6.0\task35_123_случайных_чисел.dll
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\bin\Debug\net6.0\task35_123_случайных_чисел.pdb
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\obj\Debug\net6.0\task35_123_случайных_чисел.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\obj\Debug\net6.0\task35_123_случайных_чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\obj\Debug\net6.0\task35_123_случайных_чисел.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\obj\Debug\net6.0\task35_123_случайных_чисел.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\obj\Debug\net6.0\task35_123_случайных_чисел.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\obj\Debug\net6.0\task35_123_случайных_чисел.dll
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\obj\Debug\net6.0\refint\task35_123_случайных_чисел.dll
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\obj\Debug\net6.0\task35_123_случайных_чисел.pdb
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\obj\Debug\net6.0\task35_123_случайных_чисел.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task35_123_случайных_чисел\obj\Debug\net6.0\ref\task35_123_случайных_чисел.dll
