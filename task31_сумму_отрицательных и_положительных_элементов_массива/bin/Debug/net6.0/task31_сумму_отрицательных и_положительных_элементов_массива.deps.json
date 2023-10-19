@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task31_сумму_отрицательных и_положительных_элементов_массива/1.0.0": {
+        "runtime": {
+          "task31_сумму_отрицательных и_положительных_элементов_массива.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task31_сумму_отрицательных и_положительных_элементов_массива/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
