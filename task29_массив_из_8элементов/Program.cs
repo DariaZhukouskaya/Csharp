@@ -5,9 +5,9 @@
 */
 
 
-int[] GetArray(int start, int end, int size)
+int[] GetArray(int start, int end, int size)  //первая функция наполняет массив, вторая выводит на экран
 {
-    int[] array = new int[size];
+    int[] array = new int[size]; //чтоб наполнить int[] array мы заходит в функцию
     for (int i = 0; i < size; i++)
     {
         array[i] = new Random().Next(start, end+1);
@@ -36,5 +36,5 @@ int userEnd = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Задай размер массива:");
 int userSize = Convert.ToInt32(Console.ReadLine());
 
-int[] userArray = GetArray(userStart, userEnd, userSize);
-PrintArray(userArray);
+int[] userArray = GetArray(userStart, userEnd, userSize);  // вызываем функцию
+PrintArray(userArray);  // печатаем функцию
