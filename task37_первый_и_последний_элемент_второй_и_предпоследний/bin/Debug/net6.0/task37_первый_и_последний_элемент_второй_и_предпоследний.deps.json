@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task37_первый_и_последний_элемент_второй_и_предпоследний/1.0.0": {
+        "runtime": {
+          "task37_первый_и_последний_элемент_второй_и_предпоследний.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task37_первый_и_последний_элемент_второй_и_предпоследний/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
