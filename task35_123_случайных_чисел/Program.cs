@@ -23,18 +23,18 @@ int[] GenerateArray(int size, int minValue, int maxValue)
     return array;
 }
 
-int CountNum(int[] array) // счетчик
+int CountNum(int[] array)
 {
     int count = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        if (array[i] >= 10 && array[i] <= 99) // считает колчество совпадений от 10 до 99
+        if (array[i] >= 10 && array[i] <= 99)
             count++;
     }
     return count;
 }
 
-void PrintArray(int[] arrayOne, int a) //определяет порядок аргументов при вводе данных arrayOne
+void PrintArray(int[] arrayOne, int a)
 {
     System.Console.WriteLine();
     System.Console.Write("[");
