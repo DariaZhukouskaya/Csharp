@@ -3,7 +3,7 @@
 Например, в массиве [3,9,-8,1,0,-7,2,-1,8,-3,-1,6] сумма положительных чисел равна 29, сумма отрицательных равна -20.
 */
 
-int Prompt(string massage)
+/*int Prompt(string massage)
 {
     System.Console.Write(massage);
     int result = Convert.ToInt32(Console.ReadLine());
@@ -32,16 +32,21 @@ void PrintArray(int[] array)
     {
         System.Console.Write(array[i]);
         if (i < array.Length - 1)
+        {
             System.Console.Write(", ");
-
+        }
         if (array[i] > 0)
+        {
             pozitive = pozitive + array[i];
+        }
         else
+        {
             negative = negative + array[i];
+        }
     }
     System.Console.WriteLine("]");
     System.Console.WriteLine();
-    System.Console.WriteLine($"Сумма положительных чисел:\t {pozitive}");
+    System.Console.WriteLine($"Сумма положительных чисел:\t {pozitive}");   //\t это длинный пробел делает в терминале
     System.Console.WriteLine($"Сумма отрицательных чисел:\t{negative}");
 }
 
@@ -49,4 +54,67 @@ int length = Prompt("Длина массива: ");
 int min = Prompt("Начальное значение для диапазона случайного числа: ");
 int max = Prompt("Конечное значене для дапазона случайного числа: ");
 int[] array = GenerateArray(length, min, max);
-PrintArray(array);
+PrintArray(array);*/
+
+int[] GetRandomArray(int start, int end, int lenght)
+{
+    int[] array = new int[lenght];
+    for (int i = 0; i < lenght; i++)
+    {
+        array[i] = new Random().Next(start, end);
+    }
+    return array;
+}
+
+void PrintArray(int[] array)
+{
+    System.Console.Write("[");
+    for (int i = 0; i < array.Length; i++)
+    {
+        System.Console.Write(array[i]);
+        if (i < array.Length - 1)
+            System.Console.Write(", ");
+    }
+    System.Console.WriteLine("]");
+}
+
+int TakeEntNum(string message)
+{
+    System.Console.WriteLine(message);
+    int result = Convert.ToInt32(Console.ReadLine());
+    return result;
+}
+
+int SumPositiveNum (int[] array)
+{
+ 
+ int result = 0;
+ for (int i = 0; i < array.Length; i++)
+ {
+    if (array[i] > 0) result +=array[i];
+ }
+ return result;
+}
+
+int SumNegativeNum (int[] array)
+{
+ 
+ int result = 0;
+ for (int i = 0; i < array.Length; i++)
+ {
+    if (array[i] < 0) result +=array[i];
+ }
+ return result;
+}
+
+int userArraySize = TakeEntNum ("Please, enter array size:");
+int userArrayStart = TakeEntNum ("Please, enter array start number range:");
+int userArrayEnd =  TakeEntNum ("Please, enter array end number range:");
+
+int[] userArray = GetRandomArray (userArrayStart, userArrayEnd, userArraySize);
+PrintArray (userArray);
+
+int posArraySum = SumPositiveNum(userArray);
+int negArraySum = SumNegativeNum(userArray);
+
+System.Console.WriteLine($"Sum of positive numbers {posArraySum}, sum of negative numbers {negArraySum}.");
