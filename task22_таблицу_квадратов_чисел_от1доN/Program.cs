@@ -5,22 +5,19 @@
 2 -> 1,4
 */
 
-void TableSquares(int a)
-{
-    for (int i = 1; i <= a; i++)
-    {
-        System.Console.WriteLine($"{i} * {i} = {Math.Pow(i, 2)}");
-    }
-}
-System.Console.Write("Введи число: ");
+/*System.Console.Write("Введи число: ");
 int userNumber = Convert.ToInt32(Console.ReadLine());
-TableSquares(userNumber);
+for (int i = 1; i <= a; i++)
+{
+    System.Console.WriteLine($"{i} * {i} = {Math.Pow(i, 2)}");
+}
+*/
 
 
-/*System.Console.Write("Введи число: ");  // если убрать line, то все выводится в линию, а не абзацем
+System.Console.Write("Введи число: ");  // если убрать line, то все выводится в линию, а не абзацем
 int userNumber = int.Parse(Console.ReadLine());
 
 for (int i = 1; i <= userNumber; i++)
 {
     System.Console.WriteLine($"{i} * {i} = {Math.Pow(i, 2)}");
-}*/
+}
