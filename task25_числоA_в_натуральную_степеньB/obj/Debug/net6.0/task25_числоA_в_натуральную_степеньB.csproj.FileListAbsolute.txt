@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\bin\Debug\net6.0\task25_числоA_в_натуральную_степеньB.exe
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\bin\Debug\net6.0\task25_числоA_в_натуральную_степеньB.deps.json
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\bin\Debug\net6.0\task25_числоA_в_натуральную_степеньB.runtimeconfig.json
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\bin\Debug\net6.0\task25_числоA_в_натуральную_степеньB.dll
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\bin\Debug\net6.0\task25_числоA_в_натуральную_степеньB.pdb
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\obj\Debug\net6.0\task25_числоA_в_натуральную_степеньB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\obj\Debug\net6.0\task25_числоA_в_натуральную_степеньB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\obj\Debug\net6.0\task25_числоA_в_натуральную_степеньB.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\obj\Debug\net6.0\task25_числоA_в_натуральную_степеньB.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\obj\Debug\net6.0\task25_числоA_в_натуральную_степеньB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\obj\Debug\net6.0\task25_числоA_в_натуральную_степеньB.dll
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\obj\Debug\net6.0\refint\task25_числоA_в_натуральную_степеньB.dll
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\obj\Debug\net6.0\task25_числоA_в_натуральную_степеньB.pdb
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\obj\Debug\net6.0\task25_числоA_в_натуральную_степеньB.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task25_числоA_в_натуральную_степеньB\obj\Debug\net6.0\ref\task25_числоA_в_натуральную_степеньB.dll
