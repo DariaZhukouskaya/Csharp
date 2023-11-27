@@ -61,7 +61,7 @@ int[] GetRandomArray(int start, int end, int lenght) // обьявление ф�
     int[] array = new int[lenght]; // создаем новый массив new int [lenght]
     for (int i = 0; i < lenght; i++)  // от -9 до 9 заполняет
     {
-        array[i] = new Random().Next(start, end);
+        array[i] = new Random().Next(start, end + 1);
     }
     return array;
 }
@@ -85,34 +85,34 @@ int TakeEntNum(string message) // выводит сообщение на экр�
     return result;
 }
 
-int SumPositiveNum (int[] array)  // функция подсчета положительных чисел
-{
- 
- int result = 0;
- for (int i = 0; i < array.Length; i++) // перебираем все показателт на положительные числа
- {
-    if (array[i] > 0) result +=array[i]; // все положительные цифры складываем в result 
- }
- return result;
-}
-
-int SumNegativeNum (int[] array) // подсчет отритцательных чисел, меньше 0 которые
+int SumPositiveNum(int[] array)  // функция подсчета положительных чисел
 {
 
- int result = 0;
- for (int i = 0; i < array.Length; i++)
- {
-    if (array[i] < 0) result +=array[i];
- }
- return result;
+    int result = 0;
+    for (int i = 0; i < array.Length; i++) // перебираем все показателт на положительные числа
+    {
+        if (array[i] > 0) result += array[i]; // все положительные цифры складываем в result 
+    }
+    return result;
 }
 
-int userArraySize = TakeEntNum ("Please, enter array size:"); // забери число 
-int userArrayStart = TakeEntNum ("Please, enter array start number range:"); // выводим и забираем число с которой долдно генерироватся со случайным числом
-int userArrayEnd =  TakeEntNum ("Please, enter array end number range:");
+int SumNegativeNum(int[] array) // подсчет отритцательных чисел, меньше 0 которые
+{
 
-int[] userArray = GetRandomArray (userArrayStart, userArrayEnd, userArraySize); // генерируем случайный массив
-PrintArray (userArray); // проверяем функцию
+    int result = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i] < 0) result += array[i];
+    }
+    return result;
+}
+
+int userArraySize = TakeEntNum("Please, enter array size:"); // забери число 
+int userArrayStart = TakeEntNum("Please, enter array start number range:"); // выводим и забираем число с которой долдно генерироватся со случайным числом
+int userArrayEnd = TakeEntNum("Please, enter array end number range:");
+
+int[] userArray = GetRandomArray(userArrayStart, userArrayEnd, userArraySize); // генерируем случайный массив
+PrintArray(userArray); // проверяем функцию
 
 int posArraySum = SumPositiveNum(userArray); // сумма позитивных чисел
 int negArraySum = SumNegativeNum(userArray); // сумма негативных чисел
