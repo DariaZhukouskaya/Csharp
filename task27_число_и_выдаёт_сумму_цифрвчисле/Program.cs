@@ -10,7 +10,7 @@ int SumNumber(int a)
     int result = 0;
     for (int i = a; i > 0; i /= 10)  // a делим на 10 каждый круг
     {
-        result = result + i % 10;   // result = 0, 0 + i % 10
+        result = result + i % 10;   // result = 0 + i % 10
     }
     return result;
 }
