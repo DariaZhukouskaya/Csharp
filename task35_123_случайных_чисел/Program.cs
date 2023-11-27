@@ -6,14 +6,14 @@
 [10, 11, 12, 13, 14] -> 5
 */
 
-int Prompt(string message)
+int Prompt(string message) // вводим число 123 с задачи
 {
     System.Console.Write(message);
     int result = Convert.ToInt32(Console.ReadLine());
     return result;
 }
 
-int[] GenerateArray(int size, int minValue, int maxValue)
+int[] GenerateArray(int size, int minValue, int maxValue) // задаем длину массива, и диапозоны случайных чисел, которые задал пользователь
 {
     int[] array = new int[size];
     for (int i = 0; i < size; i++)
@@ -23,18 +23,18 @@ int[] GenerateArray(int size, int minValue, int maxValue)
     return array;
 }
 
-int CountNum(int[] array)
+int CountNum(int[] array) // подсчет количества цифр
 {
     int count = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        if (array[i] >= 10 && array[i] <= 99)
-            count++;
+        if (array[i] >= 10 && array[i] <= 99) // нужно найти двузначные числа (больше 10 и меньше или равно 99)
+        count++; // количесво данных цифр 
     }
-    return count;
+    return count; // повторить 
 }
 
-void PrintArray(int[] arrayOne, int a)
+void PrintArray(int[] arrayOne, int a) // и выводим сколько цифр 
 {
     System.Console.WriteLine();
     System.Console.Write("[");
