@@ -19,5 +19,5 @@ if (number < 100)
 }
 else
 {
-System.Console.WriteLine(result);
+    System.Console.WriteLine(result);
 }
