@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\bin\Debug\net6.0\task24_количество_четных_в_массиве.exe
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\bin\Debug\net6.0\task24_количество_четных_в_массиве.deps.json
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\bin\Debug\net6.0\task24_количество_четных_в_массиве.runtimeconfig.json
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\bin\Debug\net6.0\task24_количество_четных_в_массиве.dll
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\bin\Debug\net6.0\task24_количество_четных_в_массиве.pdb
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\obj\Debug\net6.0\task24_количество_четных_в_массиве.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\obj\Debug\net6.0\task24_количество_четных_в_массиве.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\obj\Debug\net6.0\task24_количество_четных_в_массиве.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\obj\Debug\net6.0\task24_количество_четных_в_массиве.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\obj\Debug\net6.0\task24_количество_четных_в_массиве.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\obj\Debug\net6.0\task24_количество_четных_в_массиве.dll
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\obj\Debug\net6.0\refint\task24_количество_четных_в_массиве.dll
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\obj\Debug\net6.0\task24_количество_четных_в_массиве.pdb
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\obj\Debug\net6.0\task24_количество_четных_в_массиве.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task24_количество_четных_в_массиве\obj\Debug\net6.0\ref\task24_количество_четных_в_массиве.dll
