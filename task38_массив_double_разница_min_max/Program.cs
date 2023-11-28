@@ -3,7 +3,7 @@
 Напишите программу для работы с массивом вещественных чисел.
 */
 
-int Promp(string massage)
+int Promp(string massage) // Promp запрашивает ввод чисел по очередности
 {
     System.Console.Write(massage);
     int result = Convert.ToInt32(Console.ReadLine());
