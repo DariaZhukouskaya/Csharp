@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task49_в_ двумерном_массиве_заменить_четные_индексы_наихквадраты/1.0.0": {
+        "runtime": {
+          "task49_в_ двумерном_массиве_заменить_четные_индексы_наихквадраты.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task49_в_ двумерном_массиве_заменить_четные_индексы_наихквадраты/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
