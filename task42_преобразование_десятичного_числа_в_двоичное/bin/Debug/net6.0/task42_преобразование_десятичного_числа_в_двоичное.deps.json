@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task42_преобразование_десятичного_числа_в_двоичное/1.0.0": {
+        "runtime": {
+          "task42_преобразование_десятичного_числа_в_двоичное.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task42_преобразование_десятичного_числа_в_двоичное/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

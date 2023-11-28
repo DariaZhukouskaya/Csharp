@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\obj\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\obj\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\obj\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\obj\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\obj\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\bin\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.exe
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\bin\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.deps.json
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\bin\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.runtimeconfig.json
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\bin\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.dll
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\bin\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.pdb
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\obj\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.dll
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\obj\Debug\net6.0\refint\task42_преобразование_десятичного_числа_в_двоичное.dll
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\obj\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.pdb
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\obj\Debug\net6.0\task42_преобразование_десятичного_числа_в_двоичное.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task42_преобразование_десятичного_числа_в_двоичное\obj\Debug\net6.0\ref\task42_преобразование_десятичного_числа_в_двоичное.dll
