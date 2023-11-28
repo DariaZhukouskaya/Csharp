@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task44_финобаччи\bin\Debug\net6.0\task44_финобаччи.exe
+C:\Users\User\Desktop\С#\task44_финобаччи\bin\Debug\net6.0\task44_финобаччи.deps.json
+C:\Users\User\Desktop\С#\task44_финобаччи\bin\Debug\net6.0\task44_финобаччи.runtimeconfig.json
+C:\Users\User\Desktop\С#\task44_финобаччи\bin\Debug\net6.0\task44_финобаччи.dll
+C:\Users\User\Desktop\С#\task44_финобаччи\bin\Debug\net6.0\task44_финобаччи.pdb
+C:\Users\User\Desktop\С#\task44_финобаччи\obj\Debug\net6.0\task44_финобаччи.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task44_финобаччи\obj\Debug\net6.0\task44_финобаччи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task44_финобаччи\obj\Debug\net6.0\task44_финобаччи.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task44_финобаччи\obj\Debug\net6.0\task44_финобаччи.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task44_финобаччи\obj\Debug\net6.0\task44_финобаччи.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task44_финобаччи\obj\Debug\net6.0\task44_финобаччи.dll
+C:\Users\User\Desktop\С#\task44_финобаччи\obj\Debug\net6.0\refint\task44_финобаччи.dll
+C:\Users\User\Desktop\С#\task44_финобаччи\obj\Debug\net6.0\task44_финобаччи.pdb
+C:\Users\User\Desktop\С#\task44_финобаччи\obj\Debug\net6.0\task44_финобаччи.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task44_финобаччи\obj\Debug\net6.0\ref\task44_финобаччи.dll
