@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\obj\Debug\net6.0\task47_двумерный_массив_вещественными_числами.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\obj\Debug\net6.0\task47_двумерный_массив_вещественными_числами.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\obj\Debug\net6.0\task47_двумерный_массив_вещественными_числами.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\obj\Debug\net6.0\task47_двумерный_массив_вещественными_числами.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\obj\Debug\net6.0\task47_двумерный_массив_вещественными_числами.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\bin\Debug\net6.0\task47_двумерный_массив_вещественными_числами.exe
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\bin\Debug\net6.0\task47_двумерный_массив_вещественными_числами.deps.json
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\bin\Debug\net6.0\task47_двумерный_массив_вещественными_числами.runtimeconfig.json
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\bin\Debug\net6.0\task47_двумерный_массив_вещественными_числами.dll
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\bin\Debug\net6.0\task47_двумерный_массив_вещественными_числами.pdb
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\obj\Debug\net6.0\task47_двумерный_массив_вещественными_числами.dll
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\obj\Debug\net6.0\refint\task47_двумерный_массив_вещественными_числами.dll
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\obj\Debug\net6.0\task47_двумерный_массив_вещественными_числами.pdb
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\obj\Debug\net6.0\task47_двумерный_массив_вещественными_числами.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task47_двумерный_массив_вещественными_числами\obj\Debug\net6.0\ref\task47_двумерный_массив_вещественными_числами.dll
