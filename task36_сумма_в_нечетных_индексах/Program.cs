@@ -24,7 +24,7 @@ int SumOddElements(int[] array)
 {
     int sum = 0;
     for (int i = 1; i < array.Length; i += 2) //находим все нечетные 
-    { 
+    {
         sum = sum + array[i]; //суммируем 
     }
     return sum;
@@ -36,7 +36,7 @@ void PrintArray(int[] arrayOne)
     for (int i = 0; i < arrayOne.Length; i++)
     {
         System.Console.Write(arrayOne[i]);
-        if(i < arrayOne.Length - 1);
+        if (i < arrayOne.Length - 1) ;
         System.Console.Write("\t");
     }
     System.Console.WriteLine();
