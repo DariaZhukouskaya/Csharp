@@ -21,7 +21,7 @@ int TakeEnteredNumber(string message)
     return result;
 }
 
-int[,] GetRandom2DArray(int start, int end, int row, int column) //[,] означает двумерный массив
+int[,] GetRandom2DArray(int start, int end, int row, int column) // получаем начальный массив;       [,] означает двумерный массив
 {
     int[,] array = new int[row, column];
     for (int i = 0; i < row; i++)
@@ -34,7 +34,7 @@ int[,] GetRandom2DArray(int start, int end, int row, int column) //[,] озна�
     return array;
 }
 
-int[,] ModifyEvenIndexSquare(int[,] array)
+int[,] ModifyEvenIndexSquare(int[,] array) // получаем новый массив (заменяем четные на их квадрат)
 {
     int[,] result = array;
     for (int i = 0; i < array.GetLength(0); i++)
