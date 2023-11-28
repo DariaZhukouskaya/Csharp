@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\obj\Debug\net6.0\task39_переворот_одномерного_массива.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\obj\Debug\net6.0\task39_переворот_одномерного_массива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\obj\Debug\net6.0\task39_переворот_одномерного_массива.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\obj\Debug\net6.0\task39_переворот_одномерного_массива.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\obj\Debug\net6.0\task39_переворот_одномерного_массива.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\bin\Debug\net6.0\task39_переворот_одномерного_массива.exe
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\bin\Debug\net6.0\task39_переворот_одномерного_массива.deps.json
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\bin\Debug\net6.0\task39_переворот_одномерного_массива.runtimeconfig.json
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\bin\Debug\net6.0\task39_переворот_одномерного_массива.dll
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\bin\Debug\net6.0\task39_переворот_одномерного_массива.pdb
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\obj\Debug\net6.0\task39_переворот_одномерного_массива.dll
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\obj\Debug\net6.0\refint\task39_переворот_одномерного_массива.dll
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\obj\Debug\net6.0\task39_переворот_одномерного_массива.pdb
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\obj\Debug\net6.0\task39_переворот_одномерного_массива.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task39_переворот_одномерного_массива\obj\Debug\net6.0\ref\task39_переворот_одномерного_массива.dll
