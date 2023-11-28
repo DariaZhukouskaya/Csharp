@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\bin\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.exe
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\bin\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.deps.json
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\bin\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.runtimeconfig.json
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\bin\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.dll
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\bin\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.pdb
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\obj\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\obj\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\obj\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\obj\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\obj\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\obj\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.dll
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\obj\Debug\net6.0\refint\task43_найти_точку_пересечения_двух_прямых.dll
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\obj\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.pdb
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\obj\Debug\net6.0\task43_найти_точку_пересечения_двух_прямых.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task43_найти_точку_пересечения_двух_прямых\obj\Debug\net6.0\ref\task43_найти_точку_пересечения_двух_прямых.dll
