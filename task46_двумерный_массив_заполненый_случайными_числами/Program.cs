@@ -1,5 +1,5 @@
 ﻿/*
-46. Задайте двумерный массив размером min, заполненый случайными целыми числами.
+46. Задайте двумерный массив размером m n, заполненый случайными целыми числами.
 m = 3, n = 4
 1 4 8 19
 5 -2 33 -2
@@ -7,7 +7,7 @@ m = 3, n = 4
 */
 
 
-int TakeInterNumber(string message)
+int TakeInterNumber(string message) // для ввода чисел
 {
     System.Console.WriteLine(message);
     int result = Convert.ToInt32(Console.ReadLine());
