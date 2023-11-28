@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\obj\Debug\net6.0\task36_сумма_в_нечетных_индексах.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\obj\Debug\net6.0\task36_сумма_в_нечетных_индексах.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\obj\Debug\net6.0\task36_сумма_в_нечетных_индексах.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\obj\Debug\net6.0\task36_сумма_в_нечетных_индексах.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\obj\Debug\net6.0\task36_сумма_в_нечетных_индексах.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\bin\Debug\net6.0\task36_сумма_в_нечетных_индексах.exe
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\bin\Debug\net6.0\task36_сумма_в_нечетных_индексах.deps.json
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\bin\Debug\net6.0\task36_сумма_в_нечетных_индексах.runtimeconfig.json
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\bin\Debug\net6.0\task36_сумма_в_нечетных_индексах.dll
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\bin\Debug\net6.0\task36_сумма_в_нечетных_индексах.pdb
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\obj\Debug\net6.0\task36_сумма_в_нечетных_индексах.dll
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\obj\Debug\net6.0\refint\task36_сумма_в_нечетных_индексах.dll
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\obj\Debug\net6.0\task36_сумма_в_нечетных_индексах.pdb
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\obj\Debug\net6.0\task36_сумма_в_нечетных_индексах.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task36_сумма_в_нечетных_индексах\obj\Debug\net6.0\ref\task36_сумма_в_нечетных_индексах.dll
