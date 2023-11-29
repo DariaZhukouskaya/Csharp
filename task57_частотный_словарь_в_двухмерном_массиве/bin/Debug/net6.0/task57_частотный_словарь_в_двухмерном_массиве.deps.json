@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task57_частотный_словарь_в_двухмерном_массиве/1.0.0": {
+        "runtime": {
+          "task57_частотный_словарь_в_двухмерном_массиве.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task57_частотный_словарь_в_двухмерном_массиве/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
