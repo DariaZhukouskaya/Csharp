@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task69_рекурсия_возведение_в_степень/1.0.0": {
+        "runtime": {
+          "task69_рекурсия_возведение_в_степень.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task69_рекурсия_возведение_в_степень/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
