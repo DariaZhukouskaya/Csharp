@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task53_в_двумерном_массиве_помеять_местами_перву_и_последнюю_строки/1.0.0": {
+        "runtime": {
+          "task53_в_двумерном_массиве_помеять_местами_перву_и_последнюю_строки.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task53_в_двумерном_массиве_помеять_местами_перву_и_последнюю_строки/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
