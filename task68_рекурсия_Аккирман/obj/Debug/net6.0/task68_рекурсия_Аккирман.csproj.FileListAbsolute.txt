@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\bin\Debug\net6.0\task68_рекурсия_Аккирман.exe
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\bin\Debug\net6.0\task68_рекурсия_Аккирман.deps.json
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\bin\Debug\net6.0\task68_рекурсия_Аккирман.runtimeconfig.json
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\bin\Debug\net6.0\task68_рекурсия_Аккирман.dll
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\bin\Debug\net6.0\task68_рекурсия_Аккирман.pdb
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\obj\Debug\net6.0\task68_рекурсия_Аккирман.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\obj\Debug\net6.0\task68_рекурсия_Аккирман.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\obj\Debug\net6.0\task68_рекурсия_Аккирман.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\obj\Debug\net6.0\task68_рекурсия_Аккирман.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\obj\Debug\net6.0\task68_рекурсия_Аккирман.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\obj\Debug\net6.0\task68_рекурсия_Аккирман.dll
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\obj\Debug\net6.0\refint\task68_рекурсия_Аккирман.dll
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\obj\Debug\net6.0\task68_рекурсия_Аккирман.pdb
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\obj\Debug\net6.0\task68_рекурсия_Аккирман.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task68_рекурсия_Аккирман\obj\Debug\net6.0\ref\task68_рекурсия_Аккирман.dll
