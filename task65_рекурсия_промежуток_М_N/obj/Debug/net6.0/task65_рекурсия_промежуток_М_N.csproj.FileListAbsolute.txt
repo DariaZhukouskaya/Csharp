@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\bin\Debug\net6.0\task65_рекурсия_промежуток_М_N.exe
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\bin\Debug\net6.0\task65_рекурсия_промежуток_М_N.deps.json
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\bin\Debug\net6.0\task65_рекурсия_промежуток_М_N.runtimeconfig.json
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\bin\Debug\net6.0\task65_рекурсия_промежуток_М_N.dll
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\bin\Debug\net6.0\task65_рекурсия_промежуток_М_N.pdb
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\obj\Debug\net6.0\task65_рекурсия_промежуток_М_N.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\obj\Debug\net6.0\task65_рекурсия_промежуток_М_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\obj\Debug\net6.0\task65_рекурсия_промежуток_М_N.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\obj\Debug\net6.0\task65_рекурсия_промежуток_М_N.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\obj\Debug\net6.0\task65_рекурсия_промежуток_М_N.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\obj\Debug\net6.0\task65_рекурсия_промежуток_М_N.dll
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\obj\Debug\net6.0\refint\task65_рекурсия_промежуток_М_N.dll
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\obj\Debug\net6.0\task65_рекурсия_промежуток_М_N.pdb
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\obj\Debug\net6.0\task65_рекурсия_промежуток_М_N.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\task65_рекурсия_промежуток_М_N\obj\Debug\net6.0\ref\task65_рекурсия_промежуток_М_N.dll
