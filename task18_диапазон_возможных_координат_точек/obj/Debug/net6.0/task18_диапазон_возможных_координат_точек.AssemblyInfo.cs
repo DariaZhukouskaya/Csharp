@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task18_диапазон_возможных_координат_точек")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa065add7d140ec8e0a7323433ce30fc1825223")]
 [assembly: System.Reflection.AssemblyProductAttribute("task18_диапазон_возможных_координат_точек")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task18_диапазон_возможных_координат_точек")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

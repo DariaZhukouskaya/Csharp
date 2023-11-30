@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XMIGkLk+syrkPyjtv7qa/yetyCeBBzbfGFypTjZrspgfQeoPFwpBQKJXle8XFBuysloViawt7RMwi0QehZfUTg==",
+  "dgSpecHash": "8yYZQvaNsxHj9rwP+cR52cwLtlqS7i1jq9+qVNGFr4yMqcLHPI7R7ecznY62eqCBNLnkU1ExvHtdVktjAbIVwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\С#\\task18_диапазон_возможных_координат_точек\\task18_диапазон_возможных_координат_точек.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Дашуля\\Desktop\\С#\\task18_диапазон_возможных_координат_точек\\task18_диапазон_возможных_координат_точек.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
