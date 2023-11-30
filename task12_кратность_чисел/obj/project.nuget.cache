@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+4GO1DJRF/nJCectdFlWpyou4E0bq2raj0/JR4VpM+Kfj3oSCqX1ija3KIzewkzjj6yobkIH7Ghmd7vS/XDmeA==",
+  "dgSpecHash": "MvHOw2HZE67uc7GT70Zld0ABc9NWDsXqUsNFI8qo/oiJ/vlagJ2kYrD4effHjhOTjU4emijdnVGzLDeGqqgwxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\С#\\task12_кратность_чисел\\task12.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Дашуля\\Desktop\\С#\\task12_кратность_чисел\\task12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
