@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PS0+ZH4n29X+Db4YblzctjWAoHusEYPIHzM8mPGnsk5mXO8cj5+HSvPABOMffqSaD4jS/k2VKbya19gfxmIGlA==",
+  "dgSpecHash": "X0qDP6U/wl7lVIBBHiN65EGH8b7PoZ2vJDskGcIlckXkwRgrHAKA8DhpVzm4wAxTxV7n1fenmy0inTcrnwlxJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\С#\\task09_наибольшая_цифра_числа\\task09.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Дашуля\\Desktop\\С#\\task09_наибольшая_цифра_числа\\task09.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
