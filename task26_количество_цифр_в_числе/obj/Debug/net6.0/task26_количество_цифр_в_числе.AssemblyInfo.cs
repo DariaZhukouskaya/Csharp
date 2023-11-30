@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task26_количество_цифр_в_числе")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d233af9b940249ed0284eb946e352c8152e117c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("task26_количество_цифр_в_числе")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task26_количество_цифр_в_числе")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
