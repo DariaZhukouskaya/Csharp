@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task63_рекурсия_числа_до_N")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98f2c1bf3179026797342d88244b9043580955df")]
 [assembly: System.Reflection.AssemblyProductAttribute("task63_рекурсия_числа_до_N")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task63_рекурсия_числа_до_N")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
