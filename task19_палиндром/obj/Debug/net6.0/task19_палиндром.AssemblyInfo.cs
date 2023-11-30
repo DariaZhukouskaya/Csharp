@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task19_палиндром")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a200b0dadb06896d209bede334172bdb73bc3cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("task19_палиндром")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task19_палиндром")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
