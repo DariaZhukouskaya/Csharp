@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task21_3d_пространство")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c05c5d7a818046a1c4cd9c162ad23f45a11a81f")]
 [assembly: System.Reflection.AssemblyProductAttribute("task21_3d_пространство")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task21_3d_пространство")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
