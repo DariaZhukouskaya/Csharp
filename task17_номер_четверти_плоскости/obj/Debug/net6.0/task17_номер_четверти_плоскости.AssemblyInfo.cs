@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task17_номер_четверти_плоскости")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d18473d8b751475b7d9e2cbf05932fe8ff8e9c5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("task17_номер_четверти_плоскости")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task17_номер_четверти_плоскости")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
