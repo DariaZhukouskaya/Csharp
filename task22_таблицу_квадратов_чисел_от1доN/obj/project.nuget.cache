@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qSV45am3AQDpKMkrRwiR60E7wV09RlVgtUIdM2yX+BmZIjr8O1O3szF1wCk7r5pn99BDh61JasBiFXJRh9P7tg==",
+  "dgSpecHash": "pJ4KtZspLpvI/EGCvBfCBke493Oz2tHZZL9P+UkDFZie1hgM7R+DNK3YvH+vYQsWiHZoaAc9sO00gBL+y9QJgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\С#\\task22_таблицу_квадратов_чисел_от1доN\\task22_таблицу_квадратов_чисел_от1доN.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Дашуля\\Desktop\\С#\\task22_таблицу_квадратов_чисел_от1доN\\task22_таблицу_квадратов_чисел_от1доN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

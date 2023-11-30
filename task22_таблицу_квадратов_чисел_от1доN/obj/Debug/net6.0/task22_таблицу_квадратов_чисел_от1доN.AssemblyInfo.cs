@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task22_таблицу_квадратов_чисел_от1доN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6ca2855206a62d8253a6dc4722e16f42c89a119")]
 [assembly: System.Reflection.AssemblyProductAttribute("task22_таблицу_квадратов_чисел_от1доN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task22_таблицу_квадратов_чисел_от1доN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
