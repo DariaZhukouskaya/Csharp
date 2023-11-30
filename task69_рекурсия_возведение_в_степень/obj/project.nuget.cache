@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KwHEnyIpWRhCnEPGcKj0wNp6EyPs3/gWcPMcJ0G5GVht/NjZeEEPebRK+NJEmGld7xN9HZEP/D/uUTeVHMhUPg==",
+  "dgSpecHash": "YzT2o8TvZveCbQGuVW3qf4953C9oph1I+x1Qp6qoDbrmAmIVqSuSrv+TpvbQyKvfF7f2Qcjg2/27iDA+9Px8ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\С#\\task69_рекурсия_возведение_в_степень\\task69_рекурсия_возведение_в_степень.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Дашуля\\Desktop\\С#\\task69_рекурсия_возведение_в_степень\\task69_рекурсия_возведение_в_степень.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

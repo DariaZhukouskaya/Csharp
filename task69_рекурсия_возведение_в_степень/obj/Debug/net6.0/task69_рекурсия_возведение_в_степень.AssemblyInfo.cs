@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task69_рекурсия_возведение_в_степень")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d08e26ca22f73a7bcd9eb9106ae5e9cff49e5b69")]
 [assembly: System.Reflection.AssemblyProductAttribute("task69_рекурсия_возведение_в_степень")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task69_рекурсия_возведение_в_степень")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
