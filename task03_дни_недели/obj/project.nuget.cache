@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ypi1ClmLYcr8/gnpDkTZUGjSqt2U27xKPNe9HKxe5bZNEswUixVvqMEfX6LJ6dxmveFvUSlQA9o825E6UDJrTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дашуля\\Desktop\\С#\\task03_дни_недели\\task02_дни_недели.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
