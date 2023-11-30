@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task13_нет_третьей_цифры")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdca2cbd1889f81b5fbc7f392060c36331325229")]
 [assembly: System.Reflection.AssemblyProductAttribute("task13_нет_третьей_цифры")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task13_нет_третьей_цифры")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
