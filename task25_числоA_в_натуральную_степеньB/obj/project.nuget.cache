@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "62BKwucIbje8mfEogJvvik6LmbPP3gD8paIPwXP9PlVHuTE533x76EPFtr6YfvaXkayuy++HOQy0AVnbKiiOgQ==",
+  "dgSpecHash": "nAFhMCDNOFm1prG8Z0qPrDeOYZA/ei0IZ1sEiDp45Ck6hKfj6RFYKA9yRkYzCNmqf5McKGDk3ApJBjUeQqSX3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\С#\\task25_числоA_в_натуральную_степеньB\\task25_числоA_в_натуральную_степеньB.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Дашуля\\Desktop\\С#\\task25_числоA_в_натуральную_степеньB\\task25_числоA_в_натуральную_степеньB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
