@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task10_вторая_цифра_трехзнач_числа")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ce221b0bc28ecfc2fc6826a671ec9ba8dc516cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("task10_вторая_цифра_трехзнач_числа")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task10_вторая_цифра_трехзнач_числа")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
