@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\С#\task50_позиция_элемента_в_двухмерном_массиве\obj\Debug\net6.0\task50_позиция_элемента_в_двухмерном_массиве.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\task50_позиция_элемента_в_двухмерном_массиве\obj\Debug\net6.0\task50_позиция_элемента_в_двухмерном_массиве.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\task50_позиция_элемента_в_двухмерном_массиве\obj\Debug\net6.0\task50_позиция_элемента_в_двухмерном_массиве.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\task50_позиция_элемента_в_двухмерном_массиве\obj\Debug\net6.0\task50_позиция_элемента_в_двухмерном_массиве.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\task50_позиция_элемента_в_двухмерном_массиве\obj\Debug\net6.0\task50_позиция_элемента_в_двухмерном_массиве.csproj.CoreCompileInputs.cache
