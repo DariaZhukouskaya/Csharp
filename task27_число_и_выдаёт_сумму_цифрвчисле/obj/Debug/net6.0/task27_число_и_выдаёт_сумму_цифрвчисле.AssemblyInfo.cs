@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task27_число_и_выдаёт_сумму_цифрвчисле")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fb269f903864344c5c940f4ee59f6e97b17e4e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("task27_число_и_выдаёт_сумму_цифрвчисле")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task27_число_и_выдаёт_сумму_цифрвчисле")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
