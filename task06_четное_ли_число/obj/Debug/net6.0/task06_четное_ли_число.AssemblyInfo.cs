@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task06_четное_ли_число")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05b34ee9f5d3d48095659f59ebb335e79991a915")]
 [assembly: System.Reflection.AssemblyProductAttribute("task06_четное_ли_число")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task06_четное_ли_число")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
