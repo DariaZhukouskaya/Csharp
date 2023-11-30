@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task02_большее_и_меньшее_числа")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c4faa05aef13f220265ea3ef8668fd2decdad9")]
 [assembly: System.Reflection.AssemblyProductAttribute("task02_большее_и_меньшее_числа")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task02_большее_и_меньшее_числа")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
