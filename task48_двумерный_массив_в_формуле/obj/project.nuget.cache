@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CrGVV2pPKhb+z5pjyNibNVNlv94lWNjIhWtEIWohEj0Eismhfc+hSrmGqueIqhmaRbd3IKZBWASsnZ/JN6vIsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дашуля\\Desktop\\С#\\task48_двумерный_массив_в_формуле\\task48_двумерный_массив_в_формуле.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
