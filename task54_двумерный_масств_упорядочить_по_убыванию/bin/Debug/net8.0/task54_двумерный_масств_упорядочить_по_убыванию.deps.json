@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "task54_двумерный_масств_упорядочить_по_убыванию/1.0.0": {
+        "runtime": {
+          "task54_двумерный_масств_упорядочить_по_убыванию.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task54_двумерный_масств_упорядочить_по_убыванию/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
