@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Pnf6pt8XXFRICJz3bMMV4soaJm4SyKrLHA9k/0IG26iIFr6x9IwV9GFiNftCp2QbjlQOrN80b3JKsz5JHjW5dw==",
+  "dgSpecHash": "FGl4rvlExqj63MHqMotO+gm/UtV/aWxa9R3dsxnAjQbBTE3PDzHnE/hlVwXfZovKQ86DX88QzJJBsmB4mmQ+Vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\С#\\task59_удаляет_строку_и_столбец_в_двумерном_массиве\\task59_удаляет_строку_и_столбец_в_двумерном_массиве.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Дашуля\\Desktop\\С#\\task59_удаляет_строку_и_столбец_в_двумерном_массиве\\task59_удаляет_строку_и_столбец_в_двумерном_массиве.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Дашуля\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

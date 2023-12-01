@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task59_удаляет_строку_и_столбец_в_двумерном_массиве")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44b2a453a5260b8721e749501aaaae479beebd60")]
 [assembly: System.Reflection.AssemblyProductAttribute("task59_удаляет_строку_и_столбец_в_двумерном_массиве")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task59_удаляет_строку_и_столбец_в_двумерном_массиве")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
